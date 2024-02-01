@@ -13,10 +13,7 @@ import { RouterLink, RouterView } from 'vue-router'
 } */
 
 main {
-  background-color: #e9dafa;
-  padding: 20px;
-  border-radius: 15px;
-  border: 3px blueviolet solid;
+  display: flex;
 }
 
 .logo {
